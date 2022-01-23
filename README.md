@@ -12,6 +12,9 @@ I am currently a final year Master’s in Computer Science student at the Nation
 [![dev.to badge](https://img.shields.io/badge/linkedin-mohitmotwani-%1500a7128?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohit-motwani-1500a7128/)
 - 👨‍💻 All of my projects are available  [here](https://github.com/mohitmotwani16?tab=repositories)
 - 📫 How to reach me:  [mohitmotwani.nitt@gmail.com](mailto:mohitmotwani.nitt@gmail.com)
+
+[![Mohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohitmotwani16&hide=contribs,prs,issues&show_icons=true&theme=radical)](https://github.com/mohitmotwani16/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohitmotwani16)](https://github.com/mohitmotwani16/github-readme-stats) -->
 <!--
 **mohitmotwani16/mohitmotwani16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
