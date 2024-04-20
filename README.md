@@ -4,10 +4,14 @@
 
 ### I'm [Mohit Motwani](https://github.com/mohitmotwani16/)
 I am a Data engineer. I completed my Master’s in Computer Science student at the National Institute of Technology, Tiruchirappalli. 
-I’m well-versed in Big data technologies: 
+I’m well-versed in Big data technologies:
+
 Languages: Python, PySpark, SQL, SAS, C++
+
 Databases: SQL Server, Postgres, Teradata
+
 Data Tools: Spark, Azure Data Factory, ADLS Gen 2, Hadoop, Databricks
+
 Other: Azure, Apache Airflow, Docker, CI/CD, Git & GitHub, Data Modelling, Statistical Analysis, Linux
 
 - 🔭 I’m currently working on a new Data engineering project using the Google Cloud platform.
