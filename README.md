@@ -3,7 +3,7 @@
 <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="300"> 
 
 ### I'm [Mohit Motwani](https://github.com/mohitmotwani16/)
-I am a Data engineer. I completed my Master’s in Computer Science student at the National Institute of Technology, Tiruchirappalli. 
+I am a Data engineer. I completed my Master’s in Computer Science at the National Institute of Technology, Tiruchirappalli. 
 I’m well-versed in Big data technologies:
 
 Languages: Python, PySpark, SQL, SAS, C++
